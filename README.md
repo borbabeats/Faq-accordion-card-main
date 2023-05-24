@@ -1,2 +1,3 @@
-# Faq-accordion-card-main
+# Accordion responsivo
+# Challenge from Frontend Mentr
  

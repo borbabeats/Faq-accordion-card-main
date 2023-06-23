@@ -1,0 +1,40 @@
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 90%;
+    }
+
+    .container-inside {
+        flex-direction: column;
+        padding: 16px;
+        margin-bottom: 12px;
+    }
+
+    .side-left, .side-right {
+        width: 100%;
+    }
+
+    .side-right h1 {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .banner-hero, .box {
+        display: none;
+    }
+
+    .banner-hero-mobile {
+        display: block;
+    }
+
+    .box-mobile {
+        display: block;
+        
+    }
+
+    .side-left .box {
+        left: -10px;
+    }
+
+    
+
+}
